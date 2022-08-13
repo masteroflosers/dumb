@@ -1,0 +1,42 @@
+{
+    "manifest": {
+        "name": "YABT Accent Premade Template",
+        "version": "1.0.0",
+        "author": "Rhy#1752",
+        "license": "MIT"
+    },
+    "background": {
+        "url": "https://cdn.discordapp.com/attachments/950624163318612008/1007837859933323344/power_chainsaw_man_drawn_by_tokkyu__d2166b57279b7966e654ab36e84b05d7_1.jpg",
+        "overlay_alpha": 120
+    },
+    "fonts": {},
+    "simple_colors": {
+        "active_channel": "#99ae3535",
+        "accent": "#fff3acc1",
+        "mention_highlight": "#26a3ffb6"
+    },
+    "colors": {
+        "brand": "#fff3acc1",
+        "brand_new_500": "#fff3acc1",
+        "primary_dark_400": "#F1FFDDE5",
+        "primary_dark_360": "#ABc16c70",
+        "uikit_btn_compound_color_selector_dark": "#fff3acc1",
+        "primary_dark_300": "#F1FFDDE5",
+        "uikit_btn_compound_color_selector_light": "#99ae3535",
+        "uikit_settings_item_text_color_dark": "#F1FFDDE5",
+        "uikit_settings_item_text_color_light": -"#99ae3535",
+        "abc_tint_switch_track": "#A09c4545",
+        "link": "#fff3acc1",
+        "link_500": "#fff3acc1",
+        "primary_dark_200": -1,
+        "white_500": -1
+    },
+    "drawable_tints": {
+        "ic_sidebar_notifications_on_dark_24dp": "#F1FFDDE5",
+        "ic_sidebar_notifications_off_dark_24dp": "#F1FFDDE5",
+        "ic_sidebar_pins_off_dark_24dp": "#F1FFDDE5",
+        "ic_sidebar_pins_on_dark_24dp": "#F1FFDDE5",
+        "ic_thread": "#F1FFDDE5"
+    },
+    "raws": {}
+}
